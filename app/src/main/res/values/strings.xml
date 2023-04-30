@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit MovieDB</string>
+    <string name="date">date</string>
+    <string name="country">country</string>
+    <string name="title">title</string>
+    <string name="img_film">img film</string>
+    <string name="rate">rate</string>
+</resources>
